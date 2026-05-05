@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Innovate-Optimize-Discover-1a1a2e?style=for-the-badge&labelColor=0f3460&color=e94560" alt="NeuroNautix tagline"/>
-
 # 🧠 NeuroNautix
 
 **Advancing Behavioral & Preclinical Research through (Meta)Data-Driven Solutions**
