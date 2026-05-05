@@ -59,7 +59,7 @@ Unique expertise in the full HCM ecosystem for precision phenotyping and digital
 
 > We help you choose the system that best fits your research question — from DIY builds to commercial platforms.
 
-### 📋 FAIR Metadata & MetaDatApp
+### 📋 FAIR Metadata & Metadatapp
 Ensuring your research data is **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable.
 - **MetaData Management App** — structuring subject and experiment data from planning to publication
 - **Standardized Schemas** — consistency and ease of data sharing
@@ -71,7 +71,7 @@ Ensuring your research data is **F**indable, **A**ccessible, **I**nteroperable, 
 
 ---
 
-## 🚀 MetaDatApp (MAPP) — Open Source
+## 🚀 Metadatapp — Open Source
 
 > **[github.com/Neuronautix/metadatapp](https://github.com/Neuronautix/metadatapp)** · **[metadatapp.net](https://www.metadatapp.net)**
 
@@ -204,7 +204,6 @@ We offer **free consultations** to discuss your research needs and design tailor
 | Channel | Details |
 |:---|:---|
 | 📧 Email | neuronautix [at] gmail.com |
-| 📞 Phone | +33 (0)7 85 30 64 70 |
 | 📍 Location | Montpellier, France |
 | 🌐 Website | [neuronautix.com](https://www.neuronautix.com) |
 
